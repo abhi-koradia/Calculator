@@ -2,8 +2,6 @@
 
 A calculator project built with React.
 
-![Calculator Screenshot](https://i.imgur.com/O3CKScM.gif)
-
 ## Features
 
 1. Add, subtract, multiply, divide
